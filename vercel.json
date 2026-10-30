@@ -1,8 +1,9 @@
 {
   "redirects": [
     {
-      "source": "/",
-      "destination": "www.ryuxp.online",
-      "permanent": false
+      "source": "/(.*)",
+      "destination": "https://www.ryuxp.online/th/",
+      "permanent": true
     }
+  ]
 }
